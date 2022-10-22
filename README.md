@@ -21,4 +21,5 @@ DEPLOYMENT PROCESS
 #deploy sub websites in netlify and link ur sub websites url in the main website
 #deploy the main responsive apple website clone in netlify and copy paste the url in any browser (chrome suggested)
 
-
+*****HERE IS MY RESPONSIVE APPLE WEBSITE CLONE URL:*****
+URL:https://63539c37e7703e00089a79bd--magical-kashata-5ab852.netlify.app/
